@@ -1,0 +1,75 @@
+# Source dataset for the comparison table in README.md.
+# Run `python render_table.py --write` after editing to regenerate the table.
+# Facts (features, pricing, free options) reflect each vendor's public
+# positioning in early 2026 and change often. Corrections welcome via PR.
+
+tools:
+  - name: AIclicks
+    url: https://aiclicks.io
+    type: "AI visibility"
+    free: "Free trial"
+    price_from: "$59/mo (promo)"
+    best_for: "AI-era topic discovery and visibility research"
+
+  - name: vidIQ
+    url: https://vidiq.com
+    type: "All-rounder"
+    free: "Yes"
+    price_from: "Free plan"
+    best_for: "Keyword research, video ideas, and channel growth"
+
+  - name: TubeBuddy
+    url: https://www.tubebuddy.com
+    type: "Optimization"
+    free: "Yes"
+    price_from: "$3.60/mo (yearly)"
+    best_for: "In-editor optimization and A/B testing"
+
+  - name: YouTube Studio
+    url: ""
+    type: "Native analytics"
+    free: "Yes"
+    price_from: "Free"
+    best_for: "Built-in audience, retention, and traffic-source data"
+
+  - name: Google Trends
+    url: ""
+    type: "Trends"
+    free: "Yes"
+    price_from: "Free"
+    best_for: "Trend spotting and topic timing"
+
+  - name: Google Keyword Planner
+    url: ""
+    type: "Keyword demand"
+    free: "Yes"
+    price_from: "Free"
+    best_for: "Validating commercial keyword demand"
+
+  - name: Ahrefs
+    url: https://ahrefs.com
+    type: "SEO suite"
+    free: "Limited free tools"
+    price_from: "$29/mo"
+    best_for: "YouTube within a wider search strategy"
+
+  - name: Semrush
+    url: https://www.semrush.com
+    type: "SEO suite"
+    free: "Limited"
+    price_from: "$139.95/mo"
+    best_for: "Agencies combining YouTube with digital marketing"
+
+  - name: Keyword Tool
+    url: https://keywordtool.io
+    type: "Keyword generator"
+    free: "Yes (basic)"
+    price_from: "EUR 79/mo"
+    best_for: "Bulk keyword and tag suggestions"
+
+  - name: Social Blade
+    url: https://socialblade.com
+    type: "Benchmarking"
+    free: "Yes"
+    price_from: "$4.50/mo"
+    best_for: "Channel benchmarking and growth tracking"
