@@ -8,7 +8,7 @@
 
 
 
-A maintained, vendor-neutral guide to the best YouTube SEO tools, organized by where they fit in the workflow rather than a flat countdown. These YouTube SEO tools help you find keywords, validate demand, optimize videos, and read the analytics that tell you what worked.
+A maintained, vendor-neutral guide to the [best YouTube SEO tools](https://aiclicks.io/blog/best-youtube-seo-tools), organized by where they fit in the workflow rather than a flat countdown. These YouTube SEO tools help you find keywords, validate demand, optimize videos, and read the analytics that tell you what worked.
 
 This list is kept as data. The comparison table is generated from [tools.yaml](tools.yaml) by [render_table.py](render_table.py), so fixing a price is a one-line edit plus a script run. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
