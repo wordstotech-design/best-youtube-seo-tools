@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://aiclicks.io/blog/best-youtube-seo-tools">
-    <img src="https://github.com/user-attachments/assets/872a9081-505a-4027-a793-a1d4e5851b41" alt="best-youtube-seo-tools" />
+    <img src="https://github.com/user-attachments/assets/98b1f7d2-b73a-42f2-8e4f-66ac6c0cac05" alt="best-youtube-seo-tools" />
   </a>
 </p>
 
